@@ -1,0 +1,6 @@
+git clone https://github.com/<usuario>/<repositorio>
+
+git init
+git add <nombre archivo> (. todos los archivos)
+git commit -m "<comentario>"
+git push https://github.com/<usuario>/<repositorio>
