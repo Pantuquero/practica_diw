@@ -106,8 +106,16 @@
 	background: #E67E22;
 }
 
+.item1 .sl-slide-inner{
+    background: #145385;
+}
+
+.item2 .sl-slide-inner{
+    background: #252525;
+}
+
 .item3 .sl-slide-inner {
-	background: #9B59B6;
+	background: #C65600;
 }
 
 .sl-slider h2 {

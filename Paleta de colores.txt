@@ -1,4 +1,5 @@
 Negro base #333
-Negro letras de contraste con negro base #999
+Gris letras de contraste con negro base #999
 Negro un poco más oscuro #252525
 Azul Steam #145385
+Naranja oscuro #C65600
